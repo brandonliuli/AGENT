@@ -1,4 +1,4 @@
-# Autonomous Generation and Exploration System (Agent) and Agent-X User's Guide
+# Autonomous Generation and Exploration for Testing (Agent) and Agent-X User's Guide
 
 ## Overview
 
