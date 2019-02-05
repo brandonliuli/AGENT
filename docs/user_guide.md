@@ -1,4 +1,4 @@
-# Autonomous Generation and Exploration for Testing (Agent) and Agent-X User's Guide
+# AI Generation and Exploration in Test (Agent) and Agent-X User's Guide
 
 ## Overview
 
