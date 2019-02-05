@@ -80,7 +80,7 @@ Santiago, Dionny
 
 ## Acknowledgements
   
-Maliani, John
+Maliani, John   
 Mattera, Michael   
 Muras, Brian   
 Vanderwall, Robert   
