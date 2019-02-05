@@ -1,8 +1,8 @@
 # <img src="docs/images/agent-logo-blue.png" width="40" height="40"/> AGENT
 
-## Autonomous Website Exploration and Testing
+## Autonomous Generation and Exploration for Testing
 
-AGENT, using training data from AGENT-X, autonomously learns to explore a website and evaluate its actions, fields, and forms. AGENT deploys one or more exploration and testing agents to explore a web application and apply test flows as testable patterns are recognized.  
+AGENT, using training data from [AGENT-X](https://github.com/UltimateSoftware/AGENT-X), autonomously learns to explore a website and evaluate its actions, fields, and forms. AGENT deploys one or more exploration and testing agents to explore a web application and apply test flows as testable patterns are recognized.  
 
 Abstract test flows, represented in a standard grammar and learned from a training set, support a Long Short-Term Memory (LSTM) based flow planner capable of perceiving similar patterns in the Application Under Test (AUT). New AUT-specific, concrete test flows are constructed from LSTM generated abstract flows and intelligently formed input data populated using a Form Expert. Executed tests are capable of detecting if a web page is operating in a manner consistent with learned test flow behaviors.  
 
