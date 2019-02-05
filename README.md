@@ -1,6 +1,6 @@
 # <img src="docs/images/agent-logo-blue.png" width="40" height="40"/> AGENT
 
-## Autonomous Generation and Exploration for Testing
+## AI Generation and Exploration in Test
 
 AGENT, using training data from [AGENT-X](https://github.com/UltimateSoftware/AGENT-X), autonomously learns to explore a website and evaluate its actions, fields, and forms. AGENT deploys one or more exploration and testing agents to explore a web application and apply test flows as testable patterns are recognized.  
 
