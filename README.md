@@ -66,7 +66,7 @@ Set the POST body type to JSON, and the body data to an empty JSON object, `{}`.
 * [Developer Install](docs/developer_install.md)
 * [User Guide](docs/user_guide.md)
 
-## Contribitors
+## Contributors
 
 Adamo, David   
 Alt, Patrick   
