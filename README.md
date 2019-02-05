@@ -68,21 +68,21 @@ Set the POST body type to JSON, and the body data to an empty JSON object, `{}`.
 
 ## Contribitors
 
-Contributors:
-Dionny Santiago  
-Patrick Alt  
 David Adamo  
-Justin Phillips  
-Philip Daye  
-Keith Briggs  
+Patrick Alt  
+Keith Briggs 
 Nicolette Celli  
 Peter J. Clarke  
+Philip Daye  
 Tariq King  
+Justin Phillips  
+Dionny Santiago  
 
-Acknowledgements:  
-Robert Vanderwall  
+## Acknowledgements
+  
 Michael Mattera  
 Brian Muras  
+Robert Vanderwall  
 
 ## References
 
