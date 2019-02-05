@@ -80,8 +80,8 @@ Santiago, Dionny
 
 ## Acknowledgements
 
-Beltran, Jonathan
-Li, Brandon
+Beltran, Jonathan   
+Li, Brandon   
 Maliani, John   
 Mattera, Michael   
 Muras, Brian   
