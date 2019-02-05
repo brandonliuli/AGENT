@@ -79,7 +79,9 @@ Phillips, Justin
 Santiago, Dionny   
 
 ## Acknowledgements
-  
+
+Beltran, Jonathan
+Li, Brandon
 Maliani, John   
 Mattera, Michael   
 Muras, Brian   
