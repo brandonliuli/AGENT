@@ -25,7 +25,7 @@ docker-compose up -d
 docker-compose logs -f
 ```
 
-Note: The Agent system does not currently include a UI or reporting capability. The AGENT logs provide insight into the operation of the system's agents.
+Note: The Agent system does not currently include a UI or reporting capability. The AGENT logs provide insight into the operation of the system's agents. Also, if you are seeing unhealthy container messages, you probably need to add more CPUs or RAM to your Docker settings.
 
 #### Step 4: Open VNC viewport and Flower monitoring tool
 
